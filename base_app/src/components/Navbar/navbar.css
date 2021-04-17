@@ -1,0 +1,12 @@
+.navbar-main-div {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-title {
+  color: green;
+}
+
+.navbar-link {
+  margin: 0 2rem;
+}

@@ -1,0 +1,2 @@
+export const FIRST_APP_DATA_FETCH = "FIRST_APP_DATA_FETCH";
+export const FETCH_ACTORS = "FETCH_ACTORS";
